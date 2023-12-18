@@ -72,7 +72,7 @@ var updateClock = function () {
         messageText = "Good morning!";
     }
     else if (time >= evening) {
-        image = "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cat_sleep.jpg";
+        image = "https://assetsio.reedpopcdn.com/gore-magala-head.png?width=1200&height=600&fit=crop&enable=upscale&auto=webp";
         messageText = "Good evening!";
     }
     else {
